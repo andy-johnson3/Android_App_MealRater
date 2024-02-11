@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Meal Rater</string>
+    <string name="restaurant">Restaurant:</string>
+    <string name="dish">Dish:</string>
+    <string name="dish2">Dish</string>
+    <string name="rate">Rate</string>
+    <string name="rating">Rating:</string>
+    <string name="restaurant2">Restaurant</string>
+    <string name="submit">Submit</string>
+    <string name="select">Select</string>
+    <string name="save">Save</string>
+    <string name="rate_a_meal">Rate A Meal</string>
+    <string name="view_rating_list">View Rating List</string>
+    <string name="view_ratings_list">View Ratings List</string>
+    <string name="delete">Delete</string>
+    <string name="view_restaurant_location">View Restaurant Location</string>
+    <string name="street_address">Street Address</string>
+    <string name="my_location">My Location</string>
+    <string name="save_restaurant_location">Save Restaurant Location</string>
+    <string name="list">List</string>
+    <string name="loc">Loc</string>
+    <string name="rate_meal">RATE MEAL</string>
+    <string name="ratings">Ratings</string>
+    <string name="rating_list">Rating List</string>
+</resources>
